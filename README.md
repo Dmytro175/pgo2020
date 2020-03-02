@@ -1,1 +1,3 @@
-# pgo2020
+<inie> <nazwisko>
+  <nr grupy>
+  <nr indeksu>
